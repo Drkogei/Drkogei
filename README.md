@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Evans Kirui
 - 👀 I’m interested in advertising and data analytics. 
 - 🌱 I’m currently learning digital marketing.
-- 💞️ I’m looking to collaborate on projects involving solving emerging challenges in the modern business environment. 
+- 💞️ I’m looking to collaborate on projects that solves emerging challenges in the modern business environment. 
 - 📫 How to reach me: Contact me at https://evanskirui.co.ke
 
 <!---
